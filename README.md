@@ -1,4 +1,4 @@
-# API de Rastreamento Veicular
+# VehicleTracker API
 
 ![status](https://img.shields.io/badge/status-Estável-brightgreen)
 <!-- Outras opções futuras:
@@ -53,7 +53,6 @@ O projeto será evoluído com foco em demonstrar o máximo das capacidades do Fa
 - 🔐 Autenticação e autorização com OAuth2 + JWT  
 - 👥 Controle de permissões por tipo de usuário (admin, cliente, operador)    
 - 📄 Validação avançada de dados com Pydantic  
-- 📊 Geração de relatórios e exportação (CSV, PDF)  
 - 🧪 Testes automatizados com Pytest  
 - 📈 Versionamento de API (ex: `/v1/`, `/v2/`)   
 - 📁 Upload de arquivos (documentos, imagens dos veículos)  
