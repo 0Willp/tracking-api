@@ -1,4 +1,4 @@
-# VehicleTracker API
+# VehicleTracker - API
 
 ![status](https://img.shields.io/badge/status-Estável-brightgreen)
 <!-- Outras opções futuras:
