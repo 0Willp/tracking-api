@@ -6,6 +6,7 @@
 ![status](https://img.shields.io/badge/status-Em%20Manutenção-red)
 -->
 Este é um projeto iniciante com o objetivo de exercitar e demonstrar o uso das principais funcionalidades do framework FastAPI.  
+
 A API foi pensada como uma base para estudar conceitos como rotas REST, modelos relacionais, documentação automática, autenticação e deploy.
 Para fins práticos, o projeto utiliza como exemplo a estrutura de uma plataforma de rastreamento veicular, permitindo o cadastro de veículos e rastreadores, simulando uma aplicação real com múltiplas funcionalidades.
 
