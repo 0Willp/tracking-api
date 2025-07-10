@@ -36,11 +36,11 @@ Documentação interativa (Swagger UI):
 
 ## Como executar localmente
 ```bash
-git clone <url>
+git clone https://github.com/0Willp/tracking-api
 cd tracking-api
 pip install -r requirements.txt
 cd app
-uvicorn app.app:app --reload
+uvicorn app:app --reload
 ```
 
 Acesse a documentação interativa em:  
