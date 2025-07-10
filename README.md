@@ -9,14 +9,14 @@ Este é um projeto iniciante com o objetivo de exercitar e demonstrar o uso das 
 
 A API foi pensada como uma base para estudar conceitos como rotas REST, modelos relacionais, documentação automática, autenticação e deploy.
 Para fins práticos, o projeto utiliza como exemplo a estrutura de uma plataforma de rastreamento veicular, permitindo o cadastro de veículos e rastreadores, simulando uma aplicação real com múltiplas funcionalidades.
-
+<!--
 ## 🔗 API em Produção (Deploy Render)
 
 Acesse a API em produção por este link:  
 👉 [`https://tracking-api.onrender.com`](https://tracking-api.onrender.com)
 
 Documentação interativa (Swagger UI):  
-👉 [`https://tracking-api.onrender.com/docs`](https://tracking-api.onrender.com/docs)
+👉 [`https://tracking-api.onrender.com/docs`](https://tracking-api.onrender.com/docs) -->
 
 ## Funcionalidades
 - Cadastro de usuarios
@@ -61,6 +61,7 @@ O projeto será evoluído com foco em demonstrar o máximo das capacidades do Fa
 - 🧩 Integração com serviços externos (ex: mapas ou notificações)  
 - 🔍 OpenAPI Tags + descrição personalizada para melhor documentação  
 - 📬 Webhooks ou eventos para integração em tempo real
+- 🔗 Deploy com Render
 ---
 
 ## Autor
