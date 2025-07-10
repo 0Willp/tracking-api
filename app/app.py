@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-import core.config as settings
+from core.config import settings
 from motor.motor_asyncio import AsyncIOMotorClient
 from core.database import create_db_and_tables
 
