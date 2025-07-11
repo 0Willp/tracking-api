@@ -38,6 +38,9 @@ Documentação interativa (Swagger UI):
 ```bash
 git clone https://github.com/0Willp/tracking-api
 cd tracking-api
+python -m venv venv
+source venv/bin/activate - macOS
+cd venv/Scripts/acticate - windows
 pip install -r requirements.txt
 cd app
 uvicorn app:app --reload
