@@ -4,6 +4,7 @@ from sqlalchemy.ext.asyncio import AsyncSession, create_async_engine
 from sqlalchemy.orm import sessionmaker
 from contextlib import asynccontextmanager
 from core.config import settings
+from sqlmodel import SQLModel, Field
 
 # chamada dos models
 
