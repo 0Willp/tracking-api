@@ -55,6 +55,7 @@ Acesse a documentação interativa em:
 
 O projeto será evoluído com foco em demonstrar o máximo das capacidades do FastAPI. Algumas melhorias previstas:
 
+- 🛠️ Refatoração para corrigir bugs e comportamentos inesperados
 - 🔐 Autenticação e autorização com OAuth2 + JWT  
 - 👥 Controle de permissões por tipo de usuário (admin, cliente, operador)    
 - 📄 Validação avançada de dados com Pydantic  

@@ -15,9 +15,9 @@ app = FastAPI(
     title=settings.PROJECT_NAME,
     openapi_url=f"{settings.API_V1_STR}/openapi.json",)
 
-#@app.on_event("startup")
-#async def on_startup():
-#    await create_db_and_tables()
+@app.on_event("startup")
+async def on_startup():
+    await create_db_and_tables()
 
 
 app.add_middleware(
